@@ -1,3 +1,5 @@
 #Description:test image
 
-FROM ubuntu:18.04
+FROM busybox:latest
+
+LABEL version="v0.1"
