@@ -7,4 +7,5 @@
 ```
 
 ![scripts][1]
+
   [1]: ./img/Stage_Script_icon.png
