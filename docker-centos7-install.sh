@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+yum install -y wget
 wget https://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo -O /etc/yum.repos.d/docker-ce.repo
 
 yum clean all
