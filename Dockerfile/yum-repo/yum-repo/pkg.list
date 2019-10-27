@@ -1,0 +1,6 @@
+docker-ce-19.03.4
+docker-python 
+docker-compose 
+python-chardet 
+python-requests
+chrony audit rsync jq git tcpdump nc bind-utils net-tools ipvsadm graphviz
