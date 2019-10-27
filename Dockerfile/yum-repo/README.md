@@ -32,4 +32,10 @@ gpgcheck=0
 
 ## 已经有docker环境
 
+直接拉镜像就可以用
 
+```bash
+[root@node1 ~]# docker run -d -p 2019:80 uscwifi/yum-repo:latest
+```
+
+![](https://raw.githubusercontent.com/52cto/PictureGo/master/img/20191027224359.png)
